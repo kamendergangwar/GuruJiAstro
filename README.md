@@ -1,6 +1,6 @@
 # Guruji Astro || Front End Developer || Assignment
-![header](https://user-images.githubusercontent.com/99132893/233545122-22ada588-b9ef-4c78-a4a9-807aa0602c89.jpg)
-![user testimonial](https://user-images.githubusercontent.com/99132893/233545167-524fbc39-dd57-46d8-b37b-cfe03fc549b1.jpg)
+![header](./public/Header.png)
+![user testimonial](./public/testimonial.png)
 ![banner](https://user-images.githubusercontent.com/99132893/233545254-e8867c40-2a91-481e-8a95-e075adcfea68.jpg)
 ![primium astrologer1](https://user-images.githubusercontent.com/99132893/233545690-1ff0b357-e2f4-4514-b312-90177fa2aca2.jpg)
 ![primium astrologer2](https://user-images.githubusercontent.com/99132893/233545778-61197e8f-89b3-4a9e-b790-3f54dcccb96a.jpg)
